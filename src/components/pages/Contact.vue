@@ -5,7 +5,7 @@
 <template>
     <section class="contact">
         <h1>聯絡我</h1>
-        <p>如果你對我的作品有興趣，歡迎透過以下方式聯絡我：</p>
+        <p>如果您對我的作品有興趣，歡迎透過以下方式聯絡我：</p>
         <ul>
             <li><strong>信箱：</strong><a href="https://mail.google.com/">ok037352085@gmail.com</a></li>
             <li><strong>GitHub：</strong><a href="https://github.com/ok037352085" target="_blank">github.com/ok037352085</a></li>
