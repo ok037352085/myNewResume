@@ -12,7 +12,7 @@
     description: '除了基本的todolist，還新增了日歷的功能，在日曆上選擇要添加待辦事項的日期，並在該日期新增/刪除待辦事項。',
     tech: 'Vue, Vite, Node.js, LocalStorage',
     demo: 'https://ok037352085.github.io/TodoList/',
-    code: 'https://github.com/your-todo-app',
+    code: 'https://github.com/ok037352085/TodoList',
   }
 ]
 </script>
