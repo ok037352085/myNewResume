@@ -13,6 +13,13 @@
     tech: 'Vue, Vite, Node.js, LocalStorage',
     demo: 'https://ok037352085.github.io/TodoList/',
     code: 'https://github.com/ok037352085/TodoList',
+  },
+  {
+    title: '天氣查詢應用程式',
+    description: '輸入城市名稱，即可查詢天氣資訊。使用 Vue 3 組件化架構，具備錯誤處理與 Loading 動畫，並支援 RWD。',
+    tech: 'Vue 3, Vite, OpenWeatherMap API,',
+    demo: 'https://ok037352085.github.io/WeatherAPI/',
+    code: 'https://github.com/ok037352085/WeatherAPI',
   }
 ]
 </script>
@@ -86,5 +93,11 @@
 
     .links a:hover {
         transform: scale(1.2);
+    }
+
+    @media (max-width: 940px) {
+      .project-card {
+        margin: 0 100px;
+      }
     }
 </style>

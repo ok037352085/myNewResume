@@ -82,7 +82,7 @@
         align-items: center;
         padding: 4rem 0;
         margin-top: auto;
-        position: absolute;
+        position: relative;
         bottom: 0;
     }
 
