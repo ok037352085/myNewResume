@@ -13,7 +13,7 @@
     <div class="details">
       <p><strong>姓名：</strong> 葉勁桐</p>
       <p><strong>學歷：</strong> 私立育達科技大學 多媒體與遊戲設計系</p>
-      <p><strong>專長：</strong> Vue 3、HTML、CSS、JavaScript、Git</p>
+      <p><strong>專長：</strong> Vue3、HTML、CSS、JavaScript、Git</p>
       <p><strong>目標：</strong> 成為一名能夠獨立開發前端專案的工程師</p>
     </div>
   </section>
@@ -22,6 +22,7 @@
 <style scoped>
   .about-me {
     max-width: 700px;
+    height: 55vh;
     margin: 80px auto;
     padding: 0 20px;
     font-family: sans-serif;

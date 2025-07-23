@@ -17,14 +17,13 @@
 </template>
 
 <style scoped>
-
     .container {
         display: flex;
         flex-direction: column;
         align-items: center;
         gap: 3rem;
-        /* background: green; */
         width: 700px;
+        height: 75vh;
     }
 
     .container img {

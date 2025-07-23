@@ -22,6 +22,7 @@
         font-family: sans-serif;
         padding: 0 20px;
         line-height: 1.8;
+        /* background: red; */
     }
 
     h1 {

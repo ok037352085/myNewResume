@@ -108,7 +108,7 @@
         aspect-ratio: 1 / 1;
         border-radius: 100%;
     }
-    @media (max-width: 768px) {
+    @media (max-width: 950px) {
         aside {
             position: static;
             width: 100%;
