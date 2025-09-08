@@ -10,16 +10,23 @@
   {
     title: 'Todo 應用程式',
     description: '除了基本的todolist，還新增了日歷的功能，在日曆上選擇要添加待辦事項的日期，並在該日期新增/刪除待辦事項。',
-    tech: 'Vue, Vite, Node.js, LocalStorage',
+    tech: 'Vue3, Vite, Node.js, LocalStorage',
     demo: 'https://ok037352085.github.io/TodoList/',
     code: 'https://github.com/ok037352085/TodoList',
   },
   {
     title: '天氣查詢應用程式',
     description: '輸入城市名稱，即可查詢天氣資訊。使用 Vue 3 組件化架構，具備錯誤處理與 Loading 動畫，並支援 RWD。',
-    tech: 'Vue 3, Vite, OpenWeatherMap API,',
+    tech: 'Vue3, Vite, OpenWeatherMap API,',
     demo: 'https://ok037352085.github.io/WeatherAPI/',
     code: 'https://github.com/ok037352085/WeatherAPI',
+  },
+  {
+    title:'苗栗地方旅遊網站',
+    description: '苗栗地方旅遊網，註冊會員即可自選景點組成一個行程保存，還能留言，並在網站上顯示',
+    tech: 'vue3, Vite, Firebase, LocalStorage, ',
+    demo: 'https://ok037352085.github.io/PHPTravelWebSite/',
+    code: 'https://github.com/ok037352085/PHPTravelWebSite/'
   }
 ]
 </script>
