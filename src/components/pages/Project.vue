@@ -27,6 +27,13 @@
     tech: 'vue3, Vite, Firebase, LocalStorage, ',
     demo: 'https://ok037352085.github.io/PHPTravelWebSite/',
     code: 'https://github.com/ok037352085/PHPTravelWebSite/'
+  },
+  {
+    title:'Spotify音樂搜尋器',
+    description:'利用SpotifyAPI 實現登入、音樂查詢並撥放(需要premium)',
+    tech:'Vue3, Vite, LocalStorage, SpotifyAPI',
+    demo:'https://ok037352085.github.io/SpotifyAPI/',
+    code:'https://github.com/ok037352085/SpotifyAPI'
   }
 ]
 </script>
