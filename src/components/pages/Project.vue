@@ -23,17 +23,24 @@
   },
   {
     title:'苗栗地方旅遊網站',
-    description: '苗栗地方旅遊網，註冊會員即可自選景點組成一個行程保存，還能留言，並在網站上顯示',
+    description: '苗栗地方旅遊網，註冊會員即可自選景點組成一個行程保存，還能留言，並在網站上顯示。',
     tech: 'vue3, Vite, Firebase, LocalStorage, ',
     demo: 'https://ok037352085.github.io/PHPTravelWebSite/',
     code: 'https://github.com/ok037352085/PHPTravelWebSite/'
   },
   {
     title:'Spotify音樂搜尋器',
-    description:'利用SpotifyAPI 實現登入、音樂查詢並撥放(需要premium)',
+    description:'利用SpotifyAPI 實現登入、音樂查詢並撥放(需要premium)。',
     tech:'Vue3, Vite, LocalStorage, SpotifyAPI',
     demo:'https://ok037352085.github.io/SpotifyAPI/',
     code:'https://github.com/ok037352085/SpotifyAPI'
+  },
+  {
+    title:'WeatherApp',
+    description:'畫面簡單的天氣查詢網站，使用OpenWeather提供的API串接，畫面會根據天候狀況改變，增加畫面的豐富度。',
+    tech:'Vue3, Vite, OpenWeatherAPI',
+    demo:'https://ok037352085.github.io/WeatherAPI/',
+    code:'https://github.com/ok037352085/WeatherAPI'
   }
 ]
 </script>
